@@ -1,0 +1,6 @@
+/* Cumpre o requisito 01 - formatando o header */
+
+.header {
+  display: flex;
+  background-color: rgb(50, 167, 145);
+}
