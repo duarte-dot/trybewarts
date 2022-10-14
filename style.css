@@ -1,5 +1,27 @@
 /* Cumpre o requisito 01 - formatando o header */
 .header {
   display: flex;
+  justify-content: space-between;
   background-color: rgb(50, 167, 145);
+  height: 60px;
+  align-items: center;
+}
+
+.trybewarts-login {
+  display: flex;
+}
+
+main {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+#evaluation-form {
+  display: flex;
+  flex-direction: column;
+  width: 675px;
+}
+
+#trybewarts-forms-logo {
+  height: 500px
 }
