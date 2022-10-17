@@ -23,3 +23,15 @@ agreement.addEventListener('change', () => {
     buttonSubmitAll.disabled = false;
   }
 });
+
+// Altera o contador de caracteres, resolvendo o requisito 20
+const caixaComentario = document.getElementById('textarea');
+const contador = document.getElementById('counter');
+
+caixaComentario.addEventListener('input', function (param) {
+  const texto = param.target;
+  const currentLenght = texto.value.length;
+  const restante = 500 - currentLenght;
+
+  contador.innerHTML = restante;
+})
