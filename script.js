@@ -26,7 +26,7 @@ agreement.addEventListener('change', () => {
 
 const avaliacao = document.getElementById('avaliacao');
 
-for (let index = 1; index <= 10; index += 1){
+for (let index = 1; index <= 10; index += 1) {
   const novaRadio = document.createElement('input');
   novaRadio.type = 'radio';
   novaRadio.name = 'rate';
@@ -39,7 +39,7 @@ for (let index = 1; index <= 10; index += 1){
 const caixaComentario = document.getElementById('textarea');
 const contador = document.getElementById('counter');
 
-caixaComentario.addEventListener('input', function contadorDeCaracteres (param) {
+caixaComentario.addEventListener('input', (param) => {
   const texto = param.target;
   const currentLenght = texto.value.length;
   const restante = 500 - currentLenght;
