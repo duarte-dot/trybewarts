@@ -28,10 +28,10 @@ agreement.addEventListener('change', () => {
 const caixaComentario = document.getElementById('textarea');
 const contador = document.getElementById('counter');
 
-caixaComentario.addEventListener('input', function (param) {
+caixaComentario.addEventListener('input', function contadorDeCaracteres (param) {
   const texto = param.target;
   const currentLenght = texto.value.length;
   const restante = 500 - currentLenght;
 
   contador.innerHTML = restante;
-})
+});
