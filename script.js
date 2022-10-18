@@ -91,7 +91,6 @@ const finalInfo = document.getElementById('final-info');
 const formulario = document.createElement('form');
 
 buttonSubmitAll.addEventListener('click', (event) => {
-  document.getElementById('evaluation-form').style.display = 'none';
   functionContent(event);
   functionFamily(event);
   functionAvaliacao(event);
