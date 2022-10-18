@@ -36,10 +36,11 @@
           <option id="pytherina-house" value="Pytherina">Pytherina</option>
         </select>
       </div>
-      <label for="" id="label-family">Qual sua família?</label>
-        <input type="radio" name="family" value="Frontend">Front-end<br>
-        <input type="radio" name="family" value="Backend">Back-end<br>
-        <input type="radio" name="family" value="FullStack">FullStack<br>
+      <label for="family" id="label-family">Qual sua família?</label>
+        <input type="radio" name="family" class="familia" value="Frontend" checked>Front-end<br>
+        <input type="radio" name="family" class="familia" value="Backend">Back-end<br>
+        <input type="radio" name="family" class="familia" value="FullStack">FullStack<br>
+        
       <label for="" id="label-content">Qual conteúdo você está com mais vontade de aprender?</label>
         <input type="checkbox" class="subject" value="HoFs">HoFs<br>
         <input type="checkbox" class="subject" value="Jest">Jest<br>
@@ -59,6 +60,9 @@
       </div>
       <button type="submit" id="submit-btn">Enviar</button>
     </form>
+
+    <div id="final-info"></div>
+    
   </main>
 
   <footer>
