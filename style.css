@@ -1,6 +1,5 @@
 /* Cumpre o requisito 01 - formatando o header */
 
-
 .header {
   display: flex;
   justify-content: space-between;
