@@ -1,13 +1,38 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# <a target="_blank" href="http://duarte-dot-trybetunes.surge.sh">TrybeTunes</a>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Neste projeto, foi desenvolvida uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Funcionalidades
+
+<ul>
+  <li>Preencher um formulário;</li>
+  <li>Visualizar as informações inseridas após o envio do formulário;</li>
+</ul>
+
+## Tecnologias utilizadas
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+
+## Como rodar o projeto
+
+<ol>
+  <li>Clone o repositório: git clone https://github.com/duarte-dot/trybewarts.git</li>
+  <li>Entre na pasta do projeto: cd trybewarts</li>
+  <li>Instale as dependências: npm install</li>
+  <li>Inicie com a extensão Live Server do VSCode pelo arquivo index.html</li>
+</ol>
+
+## Principais aprendizados
+
+<ul>
+  <li>Criar um formulário HTML CSS JavaScript;</li>
+</ul>
+
+## Conclusão
+
+Este projeto foi uma oportunidade de aplicar os conhecimentos adquiridos durante o curso da Trybe sobre JavaScript e formulários.
+
