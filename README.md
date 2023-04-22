@@ -1,6 +1,7 @@
 # Trybewarts
 
-Neste projeto, foi desenvolvida uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela.
+<li>Neste projeto, foi desenvolvida uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela.</li>
+<li>O projeto foi desenvolvido em dupla com o @saulomagnus</li>
 
 ## Funcionalidades
 
