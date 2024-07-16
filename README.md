@@ -1,16 +1,16 @@
 # Trybewarts
 
-<li>Neste projeto, foi desenvolvida uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela.</li>
-<li>O projeto foi desenvolvido em dupla com o <a target="_blank" href="https://github.com/saulomagnus">@saulomagnus</li>
+<li>In this project, a feedback form page for Trybewarts School of Magic was developed, where students can submit their feedback.</li>
+<li>The project was developed in collaboration with <a target="_blank" href="https://github.com/saulomagnus">@saulomagnus</li>
 
-## Funcionalidades
+## Features
 
 <ul>
-  <li>Preencher um formulário;</li>
-  <li>Visualizar as informações inseridas após o envio do formulário;</li>
+  <li>Fill out a form;</li>
+  <li>View the submitted information after form submission;</li>
 </ul>
 
-## Tecnologias utilizadas
+## Technologies Used
 
 <ul>
   <li>HTML</li>
@@ -18,22 +18,21 @@
   <li>JavaScript</li>
 </ul>
 
-## Como rodar o projeto
+## How to Run the Project
 
 <ol>
-  <li>Clone o repositório: git clone https://github.com/duarte-dot/trybewarts.git</li>
-  <li>Entre na pasta do projeto: cd trybewarts</li>
-  <li>Instale as dependências: npm install</li>
-  <li>Inicie com a extensão Live Server do VSCode pelo arquivo index.html</li>
+  <li>Clone the repository: git clone https://github.com/duarte-dot/trybewarts.git</li>
+  <li>Navigate into the project directory: cd trybewarts</li>
+  <li>Install dependencies: npm install</li>
+  <li>Start with VSCode Live Server extension using the index.html file</li>
 </ol>
 
-## Principais aprendizados
+## Key Learnings
 
 <ul>
-  <li>Criar um formulário HTML CSS JavaScript;</li>
+  <li>Create an HTML, CSS, JavaScript form;</li>
 </ul>
 
-## Conclusão
+## Conclusion
 
-Este projeto foi uma oportunidade de aplicar os conhecimentos adquiridos durante o curso da Trybe sobre JavaScript e formulários.
-
+This project provided an opportunity to apply the knowledge gained during the Trybe course on JavaScript and forms.
